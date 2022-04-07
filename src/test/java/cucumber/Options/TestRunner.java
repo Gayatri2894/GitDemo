@@ -9,5 +9,8 @@ import io.cucumber.junit.CucumberOptions;
 @CucumberOptions(features= "src/test/java/features",plugin= "json:target/jsonReports/cucumber-reports.json",glue= {"stepDefinations"},tags="@DeletePlace")
 
 public class TestRunner {
+	//fgf
+	//ffdg
+	//fghfg
 
 }
